@@ -20,6 +20,8 @@ A dynamic and interactive Power BI dashboard analyzing Superstore sales performa
     ├── Superstore_Sales_Insights.pbix
     ├── DataSources/
           └── Superstore_Data.xlsx
+    └── Screenshots/
+          ├── dashboard_preview.png
     ├── README.md
 ```
 
