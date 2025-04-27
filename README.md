@@ -30,10 +30,10 @@ A dynamic and interactive Power BI dashboard analyzing Superstore sales performa
 ## 📸 Dashboard Preview
 
 ### Sales Overview
-![Dashboard Overview](./Dashboard.png)
+![Dashboard Overview](./Screenshots/Dashboard.png)
 
 ### Forecasting Future Sales
-![Forecasting View](./Sales-Forecast.png)
+![Forecasting View](./Screenshots/Sales-Forecast.png)
 
 ---
 
